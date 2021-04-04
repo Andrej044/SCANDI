@@ -4,7 +4,6 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    scrollbar-width: 0;
 }
 
 ::-webkit-scrollbar {
@@ -17,6 +16,7 @@ body {
     font-family: 'Montserrat', sans-serif;
     color: #533738;
     background: #efe6e4;
+    scrollbar-width: none;
 }
 
 .scroll-bar {
