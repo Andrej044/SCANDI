@@ -225,7 +225,7 @@ body {
     .main {
         display: flex;
         height: 100vh;
-        background: url(/img/background/bckg.jpg) no-repeat, #E5E5E5;
+        background: url(img/background/bckg.jpg) no-repeat, #E5E5E5;
         background-size: cover;
     }
 
