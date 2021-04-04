@@ -39,7 +39,7 @@ body {
     .main {
         position: relative;
         height: 100vh;
-        background: url(/img/background/bckg.jpg) no-repeat 10% 98%, #E5E5E5;
+        background: url(img/background/bckg.jpg) no-repeat 10% 98%, #E5E5E5;
         background-size: contain;
     }
 
@@ -194,7 +194,7 @@ body {
     .main {
         position: relative;
         height: 100vh;
-        background: url(/img/background/bckg.jpg) no-repeat 10% 90%, #E5E5E5;
+        background: url(img/background/bckg.jpg) no-repeat 10% 90%, #E5E5E5;
         background-size: contain;
     }
 }
@@ -203,7 +203,7 @@ body {
     .main {
         display: flex;
         height: 100vh;
-        background: url(/img/background/bckg.jpg) no-repeat 0 90%, #E5E5E5;
+        background: url(img/background/bckg.jpg) no-repeat 0 90%, #E5E5E5;
         background-size: contain;
     }
 
@@ -225,7 +225,7 @@ body {
     .main {
         display: flex;
         height: 100vh;
-        background: url(/img/background/bckg.jpg) no-repeat, #E5E5E5;
+        background: url(img/background/bckg.jpg) no-repeat, #E5E5E5;
         background-size: cover;
     }
 
